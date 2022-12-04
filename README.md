@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Prathamap290702
-- 👀 I’m interested in Cyber Security, Photography
+- 👋 Hi, I’m Pratham Prajapati
+- 👀 I’m interested in Web Development, Competitive Programming, Photography.
 - 🌱 I’m currently a Student at INDIAN INSTITUTE OF INFORMATION TECHNOLOGY KALYANI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
